@@ -20,8 +20,8 @@ Dawn Eats 采用前后端分离的架构设计，包含以下主要组件：
 ## 前端架构
 
 ### 技术栈
-- **React Native**: 跨平台移动应用框架 (v0.72.0)
-- **TypeScript**: 类型安全的 JavaScript (v5.1.3)
+- **React Native**: 跨平台移动应用框架 (0.72.0)
+- **TypeScript**: 类型安全的 JavaScript (5.1.3)
 - **Expo**: 开发工具链和平台服务 (~49.0.0)
 - **React Navigation**: 底部标签页导航 (v6)
 - **React Native Web**: Web 平台支持
@@ -54,9 +54,9 @@ frontend/
 ## 后端架构
 
 ### 技术栈
-- **Python**: 现代后端开发语言 (v3.12)
+- **Python**: 现代后端开发语言 (3.12+)
 - **FastAPI**: 高性能 Web 框架
-- **SQLAlchemy**: ORM 框架 (v2.0)
+- **SQLAlchemy**: ORM 框架 (2.0)
 - **Alembic**: 数据库迁移工具
 - **SQLite**: 轻量级数据库 (开发环境)
 - **JWT**: 身份认证 (python-jose)
